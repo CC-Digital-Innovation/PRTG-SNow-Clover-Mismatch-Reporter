@@ -1,0 +1,4 @@
+configparser~=5.0.2
+pysnow~=0.7.17
+requests~=2.25.1
+pandas~=1.2.4
