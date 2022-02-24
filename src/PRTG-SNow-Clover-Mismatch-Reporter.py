@@ -10,7 +10,7 @@ import pandas as pd
 
 # Module information.
 __author__ = 'Anthony Farina'
-__copyright__ = 'Copyright (C) 2021 Anthony Farina'
+__copyright__ = 'Copyright (C) 2022 Anthony Farina'
 __credits__ = ['Anthony Farina']
 __maintainer__ = 'Anthony Farina'
 __email__ = 'farinaanthony96@gmail.com'

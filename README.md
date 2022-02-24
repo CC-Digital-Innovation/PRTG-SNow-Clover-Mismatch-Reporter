@@ -44,7 +44,10 @@ encounter any problems, please log an
 5. Submit a pull request ツ
 
 ## History
--  version 1.0.0 - 2022/02/23
+- version 1.0.1 - 2022/02/24
+    - Updated copyright year
+    - Adjusted comment length in config file
+- version 1.0.0 - 2022/02/23
     - (initial release)
 
 ## Credits
